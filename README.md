@@ -1,8 +1,8 @@
 # PROF Role Vocabulary
 
-This vocabulary is an extension to the vocabulary of Resource Roles publised within the [W3C](https://www.w3.org)'s [Profiles Vocabulary (PROF)](https://www.w3.org/TR/dx-prof/). This extension vocabulary allows SURROUND and others to define new Resource Roles. Existing Roles retain their original PROF IRIs.
+This vocabulary is an extension to the vocabulary of Resource Roles publised within the [W3C](https://www.w3.org)'s [Profiles Vocabulary (PROF)](https://www.w3.org/TR/dx-prof/). This extension vocabulary allows for the definition of Resource Roles: the W3C vocabulary is fixed. Existing Roles retain their original PROF IRIs.
 
-* <https://data.surroundaustralia.com/def/prof-roles>
+* <https://linked.data.gov.au/def/prof-roles>
 
 ## License
 This repository is licensed under Creative Commons 4.0 International. See the [LICENSE deed](LICENSE) in this repository for details.
@@ -11,8 +11,8 @@ This repository is licensed under Creative Commons 4.0 International. See the [L
 
 Creator:  
 **Nicholas J. Car**  
-*Data Architect*  
-Senior Lecturer  
+*Senior Lecturer*  
+[Australian National University](https://www.anu.edu.au)
 <nicholas.car@anu.edu.au>  
 
 Publisher:  
