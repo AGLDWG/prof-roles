@@ -12,7 +12,7 @@ This repository is licensed under Creative Commons 4.0 International. See the [L
 Creator:  
 **Nicholas J. Car**  
 *Senior Lecturer*  
-[Australian National University](https://www.anu.edu.au)
+[Australian National University](https://www.anu.edu.au)  
 <nicholas.car@anu.edu.au>  
 
 Publisher:  
