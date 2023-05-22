@@ -5,9 +5,9 @@ permalink: /schema
 ---
 # Concept
 
-## {{ page.title }}
+## Schema
 
-`http://www.w3.org/ns/dx/prof/role//schema`
+`http://www.w3.org/ns/dx/prof/role/schema`
 
 _Alternative Labels_: Shape, Structure
 

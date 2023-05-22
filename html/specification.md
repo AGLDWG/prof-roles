@@ -5,7 +5,7 @@ permalink: /specification
 ---
 # Concept
 
-## {{ page.title }}
+## Specification
 
 `http://www.w3.org/ns/dx/prof/role/specification`
 

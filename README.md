@@ -25,6 +25,7 @@ Publisher:
 Launch new site
 
 jekyll new . --force
+
 Serve locally
 
 bundle exec jekyll serve

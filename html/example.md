@@ -5,7 +5,7 @@ permalink: /example
 ---
 # Concept
 
-## {{ page.title }}
+## Example
 
 `http://www.w3.org/ns/dx/prof/role/example`
 

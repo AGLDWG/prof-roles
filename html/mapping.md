@@ -5,7 +5,7 @@ permalink: /mapping
 ---
 # Concept
 
-## {{ page.title }}
+## Mapping
 
 `http://www.w3.org/ns/dx/prof/role//mapping`
 

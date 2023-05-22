@@ -5,7 +5,7 @@ permalink: /validation
 ---
 # Concept
 
-## {{ page.title }}
+## Validation
 
 `http://www.w3.org/ns/dx/prof/role/validation`
 

@@ -5,7 +5,7 @@ permalink: /constraints
 ---
 # Concept
 
-## {{ page.title }}
+## Constraints
 
 `http://www.w3.org/ns/dx/prof/role/constraints`
 

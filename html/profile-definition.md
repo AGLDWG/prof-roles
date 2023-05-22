@@ -5,9 +5,9 @@ permalink: /profile-definition
 ---
 # Concept
 
-## {{ page.title }}
+## Profile Definition
 
-`https://data.surroundaustralia.com/def/prof-roles/profile-definition`
+`https://linked.data.gov.au/def/prof-roles/profile-definition`
 
 Defines the Profile: its parts and relations to other Profiles
 

@@ -5,9 +5,9 @@ permalink: /repository
 ---
 # Concept
 
-## {{ page.title }}
+## Repository
 
-`https://data.surroundaustralia.com/def/prof-roles/repository`
+`https://linked.data.gov.au/def/prof-roles/repository`
 
 A system used to store all, or many, of the Profile's parts.
 

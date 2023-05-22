@@ -5,7 +5,7 @@ permalink: /guidance
 ---
 # Concept
 
-## {{ page.title }}
+## Guidance
 
 `http://www.w3.org/ns/dx/prof/role/guidance`
 

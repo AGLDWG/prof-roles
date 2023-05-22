@@ -5,7 +5,7 @@ permalink: /vocabulary
 ---
 # Concept
 
-## {{ page.title }}
+## Vocabulary
 
 `http://www.w3.org/ns/dx/prof/role/vocabulary`
 

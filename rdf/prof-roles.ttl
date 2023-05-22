@@ -1,17 +1,17 @@
 ---
 permalink: /.ttl
 ---
-@prefix cs: <https://linked.data.gov.au/def/prof-roles> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix owl:  <http://www.w3.org/2002/07/owl#> .
-@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
-@prefix sdo: <https://schema.org/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix reg:  <http://purl.org/linked-data/registry#> .
-@prefix dcterms:  <http://purl.org/dc/terms/> .
-@prefix vann: <http://purl.org/vocab/vann/> .
-@prefix : <https://linked.data.gov.au/def/prof-roles/> .
+PREFIX cs: <https://linked.data.gov.au/def/prof-roles>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX sdo: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX reg:  <http://purl.org/linked-data/registry#>
+PREFIX dcterms:  <http://purl.org/dc/terms/>
+PREFIX vann: <http://purl.org/vocab/vann/>
+PREFIX : <https://linked.data.gov.au/def/prof-roles/>
 
 
 <https://linked.data.gov.au/def/prof-roles> 
@@ -27,7 +27,7 @@ permalink: /.ttl
     dcterms:publisher <https://linked.data.gov.au/org/agldwg> ;
     rdfs:seeAlso <https://github.com/agldwg/prof-roles> ;
     dcterms:issued "2021-11-13"^^xsd:date ;
-    dcterms:modified "2023-01-12"^^xsd:date ;
+    dcterms:modified "2023-05-22"^^xsd:date ;
     dcterms:rights "(c) AGLDWG, 2023"@en ;
     dcterms:created "2021-11-13"^^xsd:date ;
     dcterms:source "https://www.w3.org/TR/dx-prof/"^^xsd:anyURI ;
