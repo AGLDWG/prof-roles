@@ -1,16 +1,18 @@
 ---
 layout: page
-title: PROF Roles Vocab
+title: Vocabulary
 permalink: /
 ---
 # Vocabulary
 
 ## PROF Roles 
 
+`https://linked.data.gov.au/def/prof-roles`
+
 {: .concept_scheme .alternating}  
 Element | Value
 --- | ---
-[Identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier) | `https://linked.data.gov.au/def/prof-roles`
+[Identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier) | [https://linked.data.gov.au/def/prof-roles](https://linked.data.gov.au/def/prof-roles)
 [Creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/creator) | [Nicholas J. Car](http://orcid.org/0000-0002-8742-7730)
 [Publisher](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/publisher) | [AGLDWG](https://linked.data.gov.au/org/agldwg)
 [Created](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created) | 13th November 2021
